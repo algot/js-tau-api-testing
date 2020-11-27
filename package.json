@@ -1,0 +1,19 @@
+{
+  "name": "js-tau-api-testing",
+  "version": "1.0.0",
+  "description": "https://testautomationu.applitools.com/javascript-api-testing/",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'tests/*.spec.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^8.2.1",
+    "nock": "^13.0.5",
+    "supertest": "^6.0.1"
+  }
+}
